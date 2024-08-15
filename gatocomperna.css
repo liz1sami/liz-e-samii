@@ -1,0 +1,29 @@
+header {
+    background-color: bisque;
+    color: blue;
+    font-synthesis: reverse;
+}
+
+footer {
+    background-color: rgb(47, 0, 255);
+    color: blue;
+    font-style: reverse;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+article {
+    background-color: dimgrey;
+    color: cornflowerblue;
+    font-synthesis: inherit;
+    border-radius: 50px;
+    text-align: center;
+}
+aside{
+    background-color: darkorchid;
+    color: blueviolet;
+    font-style: unset;
+}
+img{width: 799px;
+    height: 400px;}
